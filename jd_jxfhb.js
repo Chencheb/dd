@@ -1,6 +1,6 @@
 /**
 京喜购物返红包助力
-cron 22 * * * jd_jxfhb.js
+cron 0 22 * * * jd_jxfhb.js
 */
 let common = require("./function/common");
 const $ = new common.env('京喜购物返红包助力');
