@@ -1,5 +1,5 @@
 /**
-惊喜牧场
+惊喜牧场红包助力
 cron 23 0-23/3 * * * jd_jxmc_help.js
 */
 // prettier-ignore
