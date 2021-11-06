@@ -14,7 +14,7 @@ new Env('东东萌宠-助力');
 # 是否按ck顺序助力, true: 按顺序助力 false：按指定用户助力，默认true
 ddmc_isOrder="false"
 # 助力名单(当ddmc_isOrder="false" 才生效), ENV 环境设置 export ddmc_help="Curtinlv&用户2&用户3"
-ddmc_help = ["Curtinlv", "用户x", "用户3"]
+ddmc_help = ["Whslefall", "heitele"]
 #是否开启通知，Ture：发送通知，False：不发送
 isNotice=True
 # UA 可自定义你的, 默认随机生成UA。
